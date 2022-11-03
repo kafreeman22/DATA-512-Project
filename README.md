@@ -17,5 +17,7 @@
 | mask-use-by-county.csv               | Contains self-reported masking habits by county |
 | Fort_Bend_Covid_Analysis.png         | Output Image of Fort Bend Covid-19 Analysis     |
 
+*Data Note: U.S._State_and_Territorial_Public_Mask_Mandates.csv is too large to be uploaded; however it can be found [here](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i).*
+
 ## Output Image of Fort Bend County Covid-19 Analysis
 ![Viz](Fort_Bend_Covid_Analysis.png)
