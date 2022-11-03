@@ -5,4 +5,4 @@
 
 # DATA-512-Project
 
-![Viz](Fort Bend Covid Analysis.png)
+![Viz](Fort_Bend_Covid_Analysis.png)
