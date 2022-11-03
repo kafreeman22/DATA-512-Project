@@ -4,5 +4,13 @@
 ![codesize](https://img.shields.io/github/languages/code-size/kafreeman22/DATA-512-Project.svg) 
 
 # DATA-512-Project
+## Keegan Freeman
+### 10/12/22
 
+## Project Description
+
+## Files included
+
+
+## Output Image of Fort Bend County Covid-19 Analysis
 ![Viz](Fort_Bend_Covid_Analysis.png)
