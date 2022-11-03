@@ -8,6 +8,7 @@
 ### 10/12/22
 
 ## Project Description
+The goal of this project, in its current state, is to analyze how masking policies altered the progression of COVID-19 in Fort Bend County, Texas. Unfortunately, there were no mandates put in place for this specific county, so instead I focused on plotting the total-confirmed cases alongside their derivation. Additionally, I included the breakpoints for the data as well as the date of the COVID-19 vacination rollout. Lastly, the self-reported statistics from [this](https://github.com/nytimes/covid-19-data/tree/master/mask-use) survey are included within the plot as well.
 
 ## Files included
 | File                                 | Description                                     |
