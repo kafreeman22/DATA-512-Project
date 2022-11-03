@@ -10,7 +10,12 @@
 ## Project Description
 
 ## Files included
-
+| File                                 | Description                                     |
+| ------------------------------------ | ----------------------------------------------- |
+| Project Part 1.ipynb                 | Notebook of Fort Bend Covid-19 Analysis         |
+| RAW_us_confirmed_cases.csv           | Contains confirmed covid-19 cases for the U.S.  |
+| mask-use-by-county.csv               | Contains self-reported masking habits by county |
+| Fort_Bend_Covid_Analysis.png         | Output Image of Fort Bend Covid-19 Analysis     |
 
 ## Output Image of Fort Bend County Covid-19 Analysis
 ![Viz](Fort_Bend_Covid_Analysis.png)
