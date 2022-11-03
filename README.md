@@ -4,3 +4,5 @@
 ![codesize](https://img.shields.io/github/languages/code-size/kafreeman22/DATA-512-Project.svg) 
 
 # DATA-512-Project
+
+![Viz](Fort Bend Covid Analysis.png)
