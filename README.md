@@ -30,7 +30,7 @@ The goal of this project portion is to analyze how masking policies altered the 
 | mask-use-by-county.csv               | Contains self-reported masking habits by county  |
 | housing.csv                          | Contains total market housing listings           |
 | Fort_Bend_Covid_Analysis.png         | Output Image of Fort Bend Covid-19 Analysis Pt.1 |
-| Market Listing vs Covid.png          | Findal Output Image Analysis                     |
+| Market_Listing_vs_Covid.png          | Findal Output Image Analysis                     |
 
 *Data Note: U.S._State_and_Territorial_Public_Mask_Mandates.csv is too large to be uploaded; however it can be found [here](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i).*
 
@@ -38,4 +38,4 @@ The goal of this project portion is to analyze how masking policies altered the 
 ![Viz](Fort_Bend_Covid_Analysis.png)
 
 ## Output Image of Fort Bend County Covid-19 Final Analysis
-![Viz](Market Listing vs Covid.png)
+![Viz](Market_Listing_vs_Covid.png)
